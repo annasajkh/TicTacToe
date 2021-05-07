@@ -11,3 +11,7 @@ and then run
 the jar should be in
 desktop/build/libs
 and you can run it
+
+
+i used a tutorial but it just for the ai\
+https://youtu.be/trKjYdBASyQ
