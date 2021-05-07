@@ -13,5 +13,5 @@ desktop/build/libs
 and you can run it
 
 
-i used a tutorial but it just for the ai\
+i used this tutorial but it just for the ai\
 https://youtu.be/trKjYdBASyQ
