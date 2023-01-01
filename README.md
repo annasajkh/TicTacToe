@@ -1,5 +1,5 @@
 # TicTacToe
-the ai doesn't work sometime idk why
+the ai doesn't work sometimes idk why
 
 # build the project 
 clone or download this repo
